@@ -1,1 +1,51 @@
+<Courses xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ Hotels.xsd">
+
+<!-- Sample Hotel -->
+<Hotel>
+    <Name>Westin</Name>
+    <Rating>4.2</Rating>
+    <Phone>480-698-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+        <Number>17</Number>
+        <Street>E. 7th St</Street>
+        <City>Tempe<City>
+        <State>Arizona<State>
+        <Zip>85281</Zip>
+        <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+</Hotel>
+
+<!-- Hotel 1 -->
+<Hotel>
+    <Name>DoubleTree</Name>
+    <Rating>4.2</Rating>
+    <Phone>909-889 0133</Phone>
+    <Address>
+        <Number>285</Number>
+        <Street>E. Hospitality Ln</Street>
+        <City>San Bernardino<City>
+        <State>California<State>
+        <Zip>82408</Zip>
+        <NearestAirport>San Bernardino International Airport</NearestAirport>
+    </Address>
+</Hotel>
+
+<!-- Hotel 2 -->
+<Hotel>
+    <Name>Wynn</Name>
+    <Rating>4.7</Rating>
+    <Phone>702-770 7000</Phone>
+    <Address>
+        <Number>3131</Number>
+        <Street>Las Vegas Blvd</Street>
+        <City>Las Vegas<City>
+        <State>Nevada<State>
+        <Zip>89109</Zip>
+        <NearestAirport>Herry Reid International Airport</NearestAirport>
+    </Address>
+</Hotel>
+
+<!-- Hotel 3 -->
 
