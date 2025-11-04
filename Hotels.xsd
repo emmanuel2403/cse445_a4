@@ -1,5 +1,5 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://emmanuel2403.github.io/cse445_a4/"
-targetNameSpace="https://emmanuel2403.github.io/cse445_a4/" elementFormDefault="qualified" attributeFormDefault="unqualified">
+targetNamespace="https://emmanuel2403.github.io/cse445_a4/" elementFormDefault="qualified" attributeFormDefault="unqualified">
     <xsd:annotation>
         <xsd:documentation xml:lang="en"> Hotel Example </xsd:documentation>
     </xsd:annotation>
@@ -24,13 +24,13 @@ targetNameSpace="https://emmanuel2403.github.io/cse445_a4/" elementFormDefault="
     </xsd:simpleType>
     <xsd:complexType name="AddressType">
         <xsd:sequence>
-            <xsd:element name="Number" minOccurs="1" maxOccurs="1">
-            <xsd:element name="Street" minOccurs="1" maxOccurs="1">
-            <xsd:element name="City" minOccurs="1" maxOccurs="1">
-            <xsd:element name="State" minOccurs="1" maxOccurs="1">
-            <xsd:element name="Zip" minOccurs="1" maxOccurs="1">
+            <xsd:element name="Number" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="Street" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="City" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="State" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="Zip" minOccurs="1" maxOccurs="1"/>
         </xsd:sequence>
-        <xsd:attribute name="NearestAirport" type="xsd:string" use="required">
+        <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
     </xsd:complexType>
 </xsd:schema>
 
