@@ -34,7 +34,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ Hotels.xsd">
 
 <!-- Hotel 2 -->
 <Hotel>
-    <Name>Wynn</Name>
+    <Name>Wynn Las Vegas</Name>
     <Rating>4.7</Rating>
     <Phone>702-770 7000</Phone>
     <Address>
@@ -48,4 +48,18 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ Hotels.xsd">
 </Hotel>
 
 <!-- Hotel 3 -->
+<Hotel>
+    <Name>Warwick Seattle</Name>
+    <Rating>4.0</Rating>
+    <Phone>206-443 4300</Phone>
+    <Address>
+        <Number>401</Number>
+        <Street>Lenora St</Street>
+        <City>Seattle<City>
+        <State>Washington<State>
+        <Zip>98121</Zip>
+        <NearestAirport>King County International Airport</NearestAirport>
+    </Address>
+</Hotel>
 
+<!-- Hotel 3 -->
