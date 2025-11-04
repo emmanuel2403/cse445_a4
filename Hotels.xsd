@@ -1,1 +1,11 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns="https://emmanuel2403.github.io/cse445_a4/"
+targetNameSpace="https://emmanuel2403.github.io/cse445_a4/"
+elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xsd:annotation>
+<xsd:documentation xml:lang="en"> Hotel Example </xsd:documentation>
+</xsd:annotation>
+<xsd:element name ="Hotels" type="HotelsType"/>
+<xsd:complexType name="HotelsType">
+
 
