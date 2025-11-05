@@ -2,9 +2,8 @@
 xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel2403.github.io/cse445_a4/Hotels.xsd">
 
     <!-- Sample Hotel -->
-    <Hotel>
+    <Hotel Rating = "4.2">
         <Name>Westin</Name>
-        <Rating>4.2</Rating>
         <Phone>480-698-8885</Phone>
         <Phone>800-937-8461</Phone>
         <Address>
@@ -18,9 +17,8 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
     </Hotel>
 
     <!-- Hotel 1 -->
-    <Hotel>
+    <Hotel Rating="4.2">
         <Name>DoubleTree</Name>
-        <Rating>4.2</Rating>
         <Phone>909-889-0133</Phone>
         <Address>
             <Number>285</Number>
@@ -33,9 +31,8 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
     </Hotel>
 
     <!-- Hotel 2 -->
-    <Hotel>
+    <Hotel Rating="4.7">
         <Name>Wynn Las Vegas</Name>
-        <Rating>4.7</Rating>
         <Phone>702-770-7000</Phone>
         <Address>
             <Number>3131</Number>
@@ -48,9 +45,8 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
     </Hotel>
 
     <!-- Hotel 3 -->
-    <Hotel>
+    <Hotel Rating="4.0">
         <Name>Warwick Seattle</Name>
-        <Rating>4.0</Rating>
         <Phone>206-443 4300</Phone>
         <Address>
             <Number>401</Number>
@@ -63,7 +59,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
     </Hotel>
 
     <!-- Hotel 4 -->
-    <Hotel>
+    <Hotel Rating="3.9">
         <Name>The Central Park North</Name>
         <Rating>3.9</Rating>
         <Phone>212-662-2300</Phone>
@@ -78,9 +74,8 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
     </Hotel>
 
     <!-- Hotel 5 -->
-    <Hotel>
+    <Hotel Rating = "4.2">
         <Name>Westin</Name>
-        <Rating>4.2</Rating>
         <Phone>480-698-8885</Phone>
         <Phone>800-937-8461</Phone>
         <Address>
@@ -92,7 +87,8 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
-
+</Hotels>
+<!-- 
     <!-- Hotel 6 -->
     <Hotel>
     <Name>Westin</Name>
@@ -171,5 +167,5 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
         <Zip>85281</Zip>
         <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
-</Hotel>
+</Hotel> -->
 </Hotels>
