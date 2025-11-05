@@ -33,7 +33,7 @@ targetNamespace="https://emmanuel2403.github.io/cse445_a4/" elementFormDefault="
                         <xsd:pattern value="[A-Za-z]{2}"/>
                     </xsd:restriction>
                 </xsd:simpleType>
-            <xsd:element>
+            </xsd:element>
             <xsd:element name="Zip" type="xsd:string" minOccurs="1" maxOccurs="1"/>
         </xsd:sequence>
         <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
