@@ -10,7 +10,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
             <Number>17</Number>
             <Street>E. 7th St</Street>
             <City>Tempe</City>
-            <State>Arizona</State>
+            <State>AZ</State>
             <Zip>85281</Zip>
         </Address>
     </Hotel>
@@ -23,7 +23,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
             <Number>285</Number>
             <Street>E. Hospitality Ln</Street>
             <City>San Bernardino</City>
-            <State>California</State>
+            <State>CA</State>
             <Zip>82408</Zip>
         </Address>
     </Hotel>
@@ -36,7 +36,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
             <Number>3131</Number>
             <Street>Las Vegas Blvd</Street>
             <City>Las Vegas</City>
-            <State>Nevada</State>
+            <State>NV</State>
             <Zip>89109</Zip>
         </Address>
     </Hotel>
@@ -49,7 +49,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
             <Number>401</Number>
             <Street>Lenora St</Street>
             <City>Seattle</City>
-            <State>Washington</State>
+            <State>WA</State>
             <Zip>98121</Zip>
         </Address>
     </Hotel>
@@ -62,7 +62,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
             <Number>137</Number>
             <Street>W. 111th St</Street>
             <City>New York</City>
-            <State>New York</State>
+            <State>NY</State>
             <Zip>10026</Zip>
         </Address>
     </Hotel>
@@ -76,7 +76,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
             <Number>17</Number>
             <Street>E. 7th St</Street>
             <City>Tempe</City>
-            <State>Arizona</State>
+            <State>AZ</State>
             <Zip>85281</Zip>
         </Address>
     </Hotel>
