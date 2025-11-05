@@ -1,5 +1,5 @@
-<Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel2403.github.io/cse445_a4/Hotels.xsd">
+<Hotels xmlns="https://emmanuel2403.github.io/cse445_a4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel2403.github.io/cse445_a4/Hotels.xsd">
 
     <!-- Sample Hotel -->
     <Hotel>
@@ -10,8 +10,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
         <Address>
             <Number>17</Number>
             <Street>E. 7th St</Street>
-            <City>Tempe<City>
-            <State>Arizona<State>
+            <City>Tempe</City>
+            <State>Arizona</State>
             <Zip>85281</Zip>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
@@ -21,12 +21,12 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
     <Hotel>
         <Name>DoubleTree</Name>
         <Rating>4.2</Rating>
-        <Phone>909-889 0133</Phone>
+        <Phone>909-889-0133</Phone>
         <Address>
             <Number>285</Number>
             <Street>E. Hospitality Ln</Street>
-            <City>San Bernardino<City>
-            <State>California<State>
+            <City>San Bernardino</City>
+            <State>California</State>
             <Zip>82408</Zip>
             <NearestAirport>San Bernardino International Airport</NearestAirport>
         </Address>
@@ -36,12 +36,12 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
     <Hotel>
         <Name>Wynn Las Vegas</Name>
         <Rating>4.7</Rating>
-        <Phone>702-770 7000</Phone>
+        <Phone>702-770-7000</Phone>
         <Address>
             <Number>3131</Number>
             <Street>Las Vegas Blvd</Street>
-            <City>Las Vegas<City>
-            <State>Nevada<State>
+            <City>Las Vegas</City>
+            <State>Nevada</State>
             <Zip>89109</Zip>
             <NearestAirport>Herry Reid International Airport</NearestAirport>
         </Address>
@@ -55,8 +55,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
         <Address>
             <Number>401</Number>
             <Street>Lenora St</Street>
-            <City>Seattle<City>
-            <State>Washington<State>
+            <City>Seattle</City>
+            <State>Washington</State>
             <Zip>98121</Zip>
             <NearestAirport>King County International Airport</NearestAirport>
         </Address>
@@ -66,12 +66,12 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
     <Hotel>
         <Name>The Central Park North</Name>
         <Rating>3.9</Rating>
-        <Phone>212-662 2300</Phone>
+        <Phone>212-662-2300</Phone>
         <Address>
             <Number>137</Number>
             <Street>W. 111th St</Street>
-            <City>New York<City>
-            <State>New York<State>
+            <City>New York</City>
+            <State>New York</State>
             <Zip>10026</Zip>
             <NearestAirport>LaGuardia Airport</NearestAirport>
         </Address>
@@ -86,8 +86,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
         <Address>
             <Number>17</Number>
             <Street>E. 7th St</Street>
-            <City>Tempe<City>
-            <State>Arizona<State>
+            <City>Tempe</City>
+            <State>Arizona</State>
             <Zip>85281</Zip>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
@@ -102,8 +102,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
     <Address>
         <Number>17</Number>
         <Street>E. 7th St</Street>
-        <City>Tempe<City>
-        <State>Arizona<State>
+        <City>Tempe</City>
+        <State>Arizona</State>
         <Zip>85281</Zip>
         <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
@@ -118,8 +118,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
     <Address>
         <Number>17</Number>
         <Street>E. 7th St</Street>
-        <City>Tempe<City>
-        <State>Arizona<State>
+        <City>Tempe</City>
+        <State>Arizona</State>
         <Zip>85281</Zip>
         <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
@@ -134,8 +134,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
     <Address>
         <Number>17</Number>
         <Street>E. 7th St</Street>
-        <City>Tempe<City>
-        <State>Arizona<State>
+        <City>Tempe</City>
+        <State>Arizona</State>
         <Zip>85281</Zip>
         <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
@@ -150,8 +150,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
     <Address>
         <Number>17</Number>
         <Street>E. 7th St</Street>
-        <City>Tempe<City>
-        <State>Arizona<State>
+        <City>Tempe</City>
+        <State>Arizona</State>
         <Zip>85281</Zip>
         <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
@@ -166,8 +166,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel24
     <Address>
         <Number>17</Number>
         <Street>E. 7th St</Street>
-        <City>Tempe<City>
-        <State>Arizona<State>
+        <City>Tempe</City>
+        <State>Arizona</State>
         <Zip>85281</Zip>
         <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
