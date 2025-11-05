@@ -81,4 +81,84 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
             <Zip>85281</Zip>
         </Address>
     </Hotel>
+
+    <!-- Hotel 5 -->
+    <Hotel>
+        <Name>Omni Huston Hotel</Name>
+        <Phone>713-871-8181</Phone>
+        <Phone>623-570-2219</Phone>
+        <Address NearestAirport="William P. Hobby">
+            <Number>7800</Number>
+            <Street>Airport Blvd</Street>
+            <City>Houston</City>
+            <State>TX</State>
+            <Zip>77061</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 6 -->
+    <Hotel Rating = "4.5">
+        <Name>Omni Oklahoma City Hotel</Name>
+        <Phone>405-438-6500</Phone>
+        <Address NearestAirport="Oklahoma City Airport">
+            <Number>100</Number>
+            <Street>W. Oklahoma City Blvd</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73109</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 7 -->
+    <Hotel Rating = "4.3">
+        <Name>Hyatt Regency</Name>
+        <Phone>617-912-1234</Phone>
+        <Phone>617-215-1624</Phone>
+        <Address NearestAirport="Boston Logan International Airport">
+            <Number>1</Number>
+            <Street>Avenue de Lafayette</Street>
+            <City>Boston</City>
+            <State>MA</State>
+            <Zip>02111</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 8 -->
+    <Hotel Rating = "3.9">
+        <Name>W Dallas</Name>
+        <Phone>214-297-4100</Phone>
+        <Address NearestAirport="DFW">
+            <Number>2440</Number>
+            <Street>Victory Park Ln</Street>
+            <City>Dallas</City>
+            <State>TX</State>
+            <Zip>75219</Zip>
+        </Address>
+    </Hotel>
+
+        <!-- Hotel 9 -->
+    <Hotel Rating = "3.5">
+        <Name>Hilton Chicago</Name>
+        <Phone>312-922-4400</Phone>
+        <Address NearestAirport="Ohare">
+            <Number>720</Number>
+            <Street>S Michigan Ave</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60605</Zip>
+        </Address>
+    </Hotel>
+
+        <!-- Hotel 10 -->
+    <Hotel>
+        <Name>Caesars New Orleans</Name>
+        <Phone>504-533-6000</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>8</Number>
+            <Street>Canal St</Street>
+            <City>New Orleans</City>
+            <State>LA</State>
+            <Zip>70130</Zip>
+        </Address>
+    </Hotel>
 </Hotels>
