@@ -1,5 +1,5 @@
 <Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ Hotels.xsd">
+xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://emmanuel2403.github.io/cse445_a4/Hotels.xsd">
 
     <!-- Sample Hotel -->
     <Hotel>
