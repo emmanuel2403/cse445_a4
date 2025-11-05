@@ -44,7 +44,7 @@ xsi:schemaLocation="https://emmanuel2403.github.io/cse445_a4/ https://emmanuel24
     <!-- Hotel 3 -->
     <Hotel Rating="4.0">
         <Name>Warwick Seattle</Name>
-        <Phone>206-443 4300</Phone>
+        <Phone>206-443-4300</Phone>
         <Address NearestAirport="King County International Airport">
             <Number>401</Number>
             <Street>Lenora St</Street>
